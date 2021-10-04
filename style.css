@@ -340,6 +340,7 @@ LANDING PAGE
 .modal__languages{
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
 .modal__language{
     width: 25%;
