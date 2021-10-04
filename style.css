@@ -345,7 +345,7 @@ LANDING PAGE
 }
 .modal__language{
     width: 25%;
-    padding: 16px;
+    padding: 24px;
     position: relative;
     display: flex;
     flex-direction: column;
